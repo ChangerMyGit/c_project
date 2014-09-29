@@ -1,0 +1,28 @@
+﻿生成启动时间为 2014/9/15 14:20:34。
+     1>项目“C:\Users\Administrator\documents\visual studio 2010\Projects\CPointor7\CPointor7.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CPointor7.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "第七章.c"
+         第七章.c
+     1>c:\users\administrator\documents\visual studio 2010\projects\cpointor7\第七章.c(29): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(157) : 参见“strerror”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\documents\visual studio 2010\Projects\CPointor5\Debug\CPointor7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CPointor7.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\documents\visual studio 2010\Projects\CPointor5\Debug\CPointor7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\documents\visual studio 2010\Projects\CPointor5\Debug\CPointor7.lib" /MACHINE:X86 Debug\CPointor7.exe.embed.manifest.res
+         "Debug\第七章.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CPointor7.exe.embed.manifest" /manifest Debug\CPointor7.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         CPointor7.vcxproj -> C:\Users\Administrator\documents\visual studio 2010\Projects\CPointor5\Debug\CPointor7.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CPointor7.unsuccessfulbuild”。
+         正在对“Debug\CPointor7.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\documents\visual studio 2010\Projects\CPointor7\CPointor7.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.53

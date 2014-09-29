@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPointor1", "CPointor1\CPointor1.vcxproj", "{501C19ED-5D11-448E-922B-BE72177B0596}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPointor2", "..\CPointor2\CPointor2.vcxproj", "{46268175-CA31-49CC-809C-01C7BDFDA824}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPointor3", "CPointor3\CPointor3.vcxproj", "{543D2E20-06C8-4DBE-9C5B-52C1933CD314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501C19ED-5D11-448E-922B-BE72177B0596}.Debug|Win32.ActiveCfg = Debug|Win32
+		{501C19ED-5D11-448E-922B-BE72177B0596}.Debug|Win32.Build.0 = Debug|Win32
+		{501C19ED-5D11-448E-922B-BE72177B0596}.Release|Win32.ActiveCfg = Release|Win32
+		{501C19ED-5D11-448E-922B-BE72177B0596}.Release|Win32.Build.0 = Release|Win32
+		{46268175-CA31-49CC-809C-01C7BDFDA824}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46268175-CA31-49CC-809C-01C7BDFDA824}.Debug|Win32.Build.0 = Debug|Win32
+		{46268175-CA31-49CC-809C-01C7BDFDA824}.Release|Win32.ActiveCfg = Release|Win32
+		{46268175-CA31-49CC-809C-01C7BDFDA824}.Release|Win32.Build.0 = Release|Win32
+		{543D2E20-06C8-4DBE-9C5B-52C1933CD314}.Debug|Win32.ActiveCfg = Debug|Win32
+		{543D2E20-06C8-4DBE-9C5B-52C1933CD314}.Debug|Win32.Build.0 = Debug|Win32
+		{543D2E20-06C8-4DBE-9C5B-52C1933CD314}.Release|Win32.ActiveCfg = Release|Win32
+		{543D2E20-06C8-4DBE-9C5B-52C1933CD314}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

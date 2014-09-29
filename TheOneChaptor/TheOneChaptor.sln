@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheOneChaptor", "TheOneChaptor\TheOneChaptor.vcxproj", "{9EBE23C3-BF25-474B-97EF-AFBE8BBF6F6C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "itcast", "itcast\itcast.vcxproj", "{C4B19AC5-34F1-47A6-8C40-2877B67E2401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBE23C3-BF25-474B-97EF-AFBE8BBF6F6C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9EBE23C3-BF25-474B-97EF-AFBE8BBF6F6C}.Debug|Win32.Build.0 = Debug|Win32
+		{9EBE23C3-BF25-474B-97EF-AFBE8BBF6F6C}.Release|Win32.ActiveCfg = Release|Win32
+		{9EBE23C3-BF25-474B-97EF-AFBE8BBF6F6C}.Release|Win32.Build.0 = Release|Win32
+		{C4B19AC5-34F1-47A6-8C40-2877B67E2401}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4B19AC5-34F1-47A6-8C40-2877B67E2401}.Debug|Win32.Build.0 = Debug|Win32
+		{C4B19AC5-34F1-47A6-8C40-2877B67E2401}.Release|Win32.ActiveCfg = Release|Win32
+		{C4B19AC5-34F1-47A6-8C40-2877B67E2401}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
